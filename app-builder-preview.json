@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Botany Hub Multai",
+      "hasCanvas": false,
+      "bodyTextLen": 1564,
+      "bodyTextHash": "b9ffc62c3e3a26884efba2dfdb8db3159d2772157def554bd8b32aa80c046338",
+      "bodyTextPrefix": "Botany Hub Multai Notes Syllabus 3D Lab PDF Library Games Quiz E",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Botany Hub Multai",
+      "hasCanvas": false,
+      "bodyTextLen": 1519,
+      "bodyTextHash": "41240b698dee2d21624e6d6dd63399096dfa0b67704e6de4541d3545af115ea8",
+      "bodyTextPrefix": "Botany Hub Multai EN हिं B.SC. BOTANY · BARKATULLAH UNIVERSITY ·",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
