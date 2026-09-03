@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fraunces", "Noto Serif Devanagari", Georgia, serif;
+  --font-sans: "Figtree", "Noto Sans Devanagari", ui-sans-serif, system-ui, sans-serif;
+  --font-devanagari: "Noto Sans Devanagari", "Figtree", sans-serif;
+
+  --color-bg: #f3efe4;
+  --color-bg-deep: #ebe4d4;
+  --color-surface: #fbf8f0;
+  --color-surface-2: #f7f2e6;
+  --color-ink: #1c2419;
+  --color-ink-soft: #3a4636;
+  --color-muted: #66715f;
+  --color-faint: #8a9284;
+  --color-line: color-mix(in oklab, #1c2419 12%, transparent);
+  --color-line-strong: color-mix(in oklab, #1c2419 22%, transparent);
+  --color-forest: #2e5a3c;
+  --color-forest-deep: #1f3f2a;
+  --color-sage: #6b8f71;
+  --color-moss: #4a7a55;
+  --color-leaf: #e7efe4;
+  --color-gold-ink: #6b5420;
+  --color-danger: #9b3a3a;
+  --color-ok: #2c6b3f;
+
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-2xl: 32px;
+
+  --shadow-border: 0 0 0 1px color-mix(in oklab, #1c2419 8%, transparent),
+    0 1px 2px -1px color-mix(in oklab, #1c2419 6%, transparent),
+    0 8px 24px -12px color-mix(in oklab, #1c2419 10%, transparent);
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: var(--color-bg);
+    color: var(--color-ink);
+  }
+
+  body {
+    margin: 0;
+    min-height: 100dvh;
+    font-family: var(--font-sans);
+    background:
+      radial-gradient(1200px 480px at 88% -10%, color-mix(in oklab, var(--color-sage) 14%, transparent), transparent 60%),
+      radial-gradient(900px 420px at -10% 0%, color-mix(in oklab, var(--color-forest) 8%, transparent), transparent 55%),
+      var(--color-bg);
+    color: var(--color-ink);
+    line-height: 1.55;
+  }
+
+  html[lang="hi"] body {
+    font-family: var(--font-devanagari);
+  }
+
+  h1,
+  h2,
+  h3,
+  .font-display {
+    font-family: var(--font-display);
+    text-wrap: balance;
+    letter-spacing: -0.03em;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  ::selection {
+    background: color-mix(in oklab, var(--color-forest) 22%, white);
+  }
+
+  img {
+    outline: 1px solid color-mix(in oklab, var(--color-ink) 10%, transparent);
+    outline-offset: -1px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

@@ -1,0 +1,658 @@
+[
+  {
+    "id": "u1",
+    "roman": "UNIT I",
+    "short": "Bhartiya Gyan Parampara",
+    "title": "Plants in Bhartiya Gyan Parampara",
+    "subtitle": "Botany, history of botany in India, Vedic concepts, Indian Rishis and traditional plant knowledge.",
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1400&q=85",
+    "topics": [
+      {
+        "code": "1.1",
+        "title": "Botany — Definition, Scope and Importance",
+        "subtitle": "Plant science and its major branches",
+        "blocks": [
+          {
+            "type": "definition",
+            "title": "Definition",
+            "body": "Botany is the branch of Biology dealing with the scientific study of plants, including their structure, growth, reproduction, metabolism, diseases and evolutionary relationships. It is also called Plant Biology or Phytology."
+          },
+          {
+            "type": "split",
+            "left": {
+              "title": "Major branches",
+              "items": [
+                "Morphology — external form",
+                "Anatomy — internal structure",
+                "Physiology — life functions",
+                "Taxonomy — classification and naming",
+                "Ecology — plants and environment"
+              ]
+            },
+            "right": {
+              "title": "Importance",
+              "items": [
+                "Food and oxygen supply",
+                "Plant-derived medicines",
+                "Timber, rubber, cotton and spices",
+                "Soil and climate regulation",
+                "Research and biofuel development"
+              ]
+            }
+          }
+        ],
+        "diagram": "Diagram: branches of Botany / importance of plants."
+      },
+      {
+        "code": "1.2",
+        "title": "History of Botany in India",
+        "subtitle": "Ancient to modern development",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Ancient and Medieval",
+              "body": "Rigveda and Atharvaveda described plants; Parashar's Vrikshayurveda and the Charaka and Sushruta traditions contributed to plant knowledge. Mughal-period gardens and horticulture expanded plant use and cultivation."
+            },
+            "right": {
+              "title": "British and Modern",
+              "body": "William Roxburgh is described as the Father of Indian Botany and J.D. Hooker compiled Flora of British India. Modern development includes the Botanical Survey of India, CSIR/ICAR research, Green Revolution work and J.C. Bose's studies of plant sensitivity."
+            }
+          }
+        ],
+        "diagram": "Timeline: Ancient → Medieval → British → Modern."
+      },
+      {
+        "code": "1.3",
+        "title": "Botanical Concepts in Vedas, Upanishads, Ramayan and Puranas",
+        "subtitle": "Traditional classification and plant knowledge",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Vedic concepts",
+              "body": "Rigveda: Vanaspati, Vriksha, Oshadhi and Virudh. Atharvaveda contains extensive references to medicinal plants and the concept of Bheshaj."
+            },
+            "right": {
+              "title": "Later texts",
+              "body": "Upanishads discuss plant consciousness. Ramayan mentions Ashoka Vatika, Panchavati and Sanjeevani. Puranic texts describe plant categories and medicinal or sacred plants."
+            }
+          }
+        ],
+        "diagram": "Table: text → plant concepts → examples."
+      },
+      {
+        "code": "1.4",
+        "title": "Contribution of Indian Rishis",
+        "subtitle": "Parashar, Charak, Sushrut, Surpaal and Kautilya",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Major contributors",
+              "items": [
+                "Parashar — Vrikshayurveda; plant classification and diseases",
+                "Charak — medicinal plant groups and Dravyaguna",
+                "Sushrut — medicinal plants and plant-based surgical materials"
+              ]
+            },
+            "right": {
+              "title": "Other contributions",
+              "items": [
+                "Surpaal — horticulture, propagation and crop improvement",
+                "Kautilya — economic plants, forest conservation and plant medicines"
+              ]
+            }
+          }
+        ],
+        "diagram": "Comparison table of Rishi → work → contribution."
+      },
+      {
+        "code": "1.5",
+        "title": "Plants in Traditional Food and Folk Medicine",
+        "subtitle": "Food plants with medicinal roles",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Examples",
+              "items": [
+                "Turmeric — Curcuma longa",
+                "Ginger — Zingiber officinale",
+                "Garlic — Allium sativum",
+                "Neem — Azadirachta indica"
+              ]
+            },
+            "right": {
+              "title": "More examples",
+              "items": [
+                "Tulsi — Ocimum tenuiflorum",
+                "Giloy — Tinospora cordifolia",
+                "Amla — Phyllanthus emblica",
+                "Ashwagandha — Withania somnifera"
+              ]
+            }
+          }
+        ],
+        "diagram": "Table: common name → scientific name → traditional use."
+      }
+    ]
+  },
+  {
+    "id": "u2",
+    "roman": "UNIT II",
+    "short": "Morphology",
+    "title": "Morphology — External Structure of Plants",
+    "subtitle": "Thallus and cormus, modifications of roots, stems and leaves, and reproductive external structures.",
+    "image": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=1400&q=85",
+    "topics": [
+      {
+        "code": "1.1",
+        "title": "Basic Concepts — Thallus vs Plant Body",
+        "subtitle": "Lower plant body and differentiated cormus",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Thallus",
+              "body": "Body undivided; root, stem and leaf differentiation absent; vascular tissue absent. Examples include Spirogyra, Ulva and Marchantia."
+            },
+            "right": {
+              "title": "Plant Body (Cormus)",
+              "body": "Root, stem and leaf are distinct; vascular tissue is present. Seen in ferns, gymnosperms and angiosperms."
+            }
+          }
+        ],
+        "diagram": "Comparison: Thallus vs Cormus."
+      },
+      {
+        "code": "1.2",
+        "title": "Modifications of Roots",
+        "subtitle": "Storage, support, respiration and special functions",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Storage roots",
+              "items": [
+                "Fusiform — Radish",
+                "Napiform — Turnip",
+                "Conical — Carrot",
+                "Tuberous — Sweet potato"
+              ]
+            },
+            "right": {
+              "title": "Special roots",
+              "items": [
+                "Prop — Banyan",
+                "Stilt — Maize/Sugarcane",
+                "Pneumatophores — Rhizophora/Avicennia",
+                "Nodulated — Pea/Bean",
+                "Haustorial — Cuscuta",
+                "Epiphytic — Vanda"
+              ]
+            }
+          }
+        ],
+        "diagram": "Labelled root modification examples."
+      },
+      {
+        "code": "1.3",
+        "title": "Modifications of Stem",
+        "subtitle": "Underground, sub-aerial and aerial modifications",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Underground",
+              "items": [
+                "Rhizome — Ginger, Turmeric, Lotus",
+                "Tuber — Potato",
+                "Bulb — Onion, Garlic",
+                "Corm — Colocasia, Gladiolus"
+              ]
+            },
+            "right": {
+              "title": "Sub-aerial and aerial",
+              "items": [
+                "Runner — Grass, Strawberry",
+                "Stolon — Jasmine, Mint",
+                "Tendril — Cucumber",
+                "Thorn — Citrus",
+                "Phylloclade — Opuntia"
+              ]
+            }
+          }
+        ],
+        "diagram": "Classify each modification by function and example."
+      },
+      {
+        "code": "1.4",
+        "title": "Modifications of Leaf",
+        "subtitle": "Protection, climbing, storage, trapping and reproduction",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Common modifications",
+              "items": [
+                "Spines — Cactus, Barberry",
+                "Leaf tendrils — Pea",
+                "Fleshy leaves — Onion, Aloe vera"
+              ]
+            },
+            "right": {
+              "title": "Special modifications",
+              "items": [
+                "Pitcher — Nepenthes",
+                "Phyllode — Australian Acacia",
+                "Foliar buds — Bryophyllum"
+              ]
+            }
+          }
+        ],
+        "diagram": "Draw modified leaves with examples."
+      },
+      {
+        "code": "1.5",
+        "title": "Flower, Inflorescence, Fruits and Seeds",
+        "subtitle": "Reproductive structures and fruit classification",
+        "blocks": [
+          {
+            "type": "definition",
+            "title": "Flower",
+            "body": "Reproductive structure of angiosperms with four whorls: Calyx, Corolla, Androecium and Gynoecium."
+          },
+          {
+            "type": "split",
+            "left": {
+              "title": "Fruit types",
+              "items": [
+                "Drupe — Mango, Coconut, Plum",
+                "Berry — Tomato, Grape, Banana",
+                "Legume/Pod — Pea, Bean, Mustard"
+              ]
+            },
+            "right": {
+              "title": "More fruit types",
+              "items": [
+                "Capsule — Cotton, Poppy, Datura",
+                "Aggregate — Raspberry, Strawberry",
+                "Multiple/Composite — Jackfruit, Pineapple, Mulberry"
+              ]
+            }
+          }
+        ],
+        "diagram": "Labelled flower and fruit-type examples."
+      }
+    ]
+  },
+  {
+    "id": "u3",
+    "roman": "UNIT III",
+    "short": "Anatomy",
+    "title": "Anatomy — Internal Structure of Plants",
+    "subtitle": "Plant cell, tissues and comparative anatomy of roots, stems and leaves.",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1400&q=85",
+    "topics": [
+      {
+        "code": "1.1",
+        "title": "Plant Cell — Structure",
+        "subtitle": "Cell theory and major organelles",
+        "blocks": [
+          {
+            "type": "definition",
+            "title": "Cell Theory",
+            "body": "Schleiden (1838), Schwann (1839) and Virchow (1855): “Omnis cellula e cellula”."
+          },
+          {
+            "type": "split",
+            "left": {
+              "title": "Plant-specific prominence",
+              "body": "Cell wall provides support; chloroplast performs photosynthesis and has its own DNA; the large vacuole maintains turgor and stores materials."
+            },
+            "right": {
+              "title": "Other organelles",
+              "body": "Plasma membrane, nucleus, mitochondria, ribosomes, Golgi apparatus and rough/smooth ER perform transport, control, respiration, protein synthesis and packaging functions."
+            }
+          }
+        ],
+        "diagram": "Labelled plant cell."
+      },
+      {
+        "code": "1.2",
+        "title": "Tissues — Classification",
+        "subtitle": "Meristematic and permanent tissues",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Meristematic",
+              "items": [
+                "Apical — primary growth",
+                "Lateral — secondary growth",
+                "Intercalary — internode growth"
+              ]
+            },
+            "right": {
+              "title": "Permanent",
+              "items": [
+                "Parenchyma — storage/photosynthesis",
+                "Collenchyma — flexible support",
+                "Sclerenchyma — rigid support",
+                "Xylem — water/mineral conduction",
+                "Phloem — food conduction"
+              ]
+            }
+          }
+        ],
+        "diagram": "Tissue classification chart."
+      },
+      {
+        "code": "1.3",
+        "title": "Dicot and Monocot Root Anatomy",
+        "subtitle": "Internal comparison",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Dicot root",
+              "body": "Radial bundles, fewer xylem arms, cambium associated with secondary growth and pith small or absent."
+            },
+            "right": {
+              "title": "Monocot root",
+              "body": "Radial polyarch bundles, large distinct pith and no secondary growth."
+            }
+          }
+        ],
+        "diagram": "Cross-section: dicot root vs monocot root."
+      },
+      {
+        "code": "1.4",
+        "title": "Dicot and Monocot Stem Anatomy",
+        "subtitle": "Vascular arrangement and secondary growth",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Dicot stem",
+              "body": "Collenchymatous hypodermis; vascular bundles in a ring, open and collateral; secondary growth possible."
+            },
+            "right": {
+              "title": "Monocot stem",
+              "body": "Sclerenchymatous hypodermis; vascular bundles scattered, closed and collateral; secondary growth absent."
+            }
+          }
+        ],
+        "diagram": "Cross-section: dicot stem vs monocot stem."
+      },
+      {
+        "code": "1.5",
+        "title": "Leaf Anatomy",
+        "subtitle": "Dorsiventral and isobilateral leaf structure",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Dorsiventral (dicot)",
+              "body": "Upper epidermis, palisade mesophyll, spongy mesophyll and lower epidermis with abundant stomata."
+            },
+            "right": {
+              "title": "Isobilateral (monocot)",
+              "body": "Stomata on both epidermal surfaces; mesophyll generally undifferentiated; Kranz anatomy and bulliform cells are important features in the source notes."
+            }
+          }
+        ],
+        "diagram": "Labelled T.S. of dicot and monocot leaf."
+      }
+    ]
+  },
+  {
+    "id": "u4",
+    "roman": "UNIT IV",
+    "short": "Plant Physiology",
+    "title": "General Idea of Plant Physiology",
+    "subtitle": "Water relations, transpiration, ascent of sap, photosynthesis and respiration.",
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=1400&q=85",
+    "topics": [
+      {
+        "code": "1.1",
+        "title": "Water Relations",
+        "subtitle": "Diffusion, osmosis, imbibition and water potential",
+        "blocks": [
+          {
+            "type": "definition",
+            "title": "Water potential",
+            "body": "Ψ = Ψs + Ψp. Pure water has Ψ = 0; solutes make water potential negative."
+          },
+          {
+            "type": "split",
+            "left": {
+              "title": "Key processes",
+              "items": [
+                "Diffusion — high to low concentration",
+                "Osmosis — water through a semipermeable membrane",
+                "Imbibition — water absorption by solid colloids"
+              ]
+            },
+            "right": {
+              "title": "Cell states",
+              "items": [
+                "Turgidity — fully hydrated, maximum turgor",
+                "Plasmolysis — membrane shrinks away from wall in hypertonic solution",
+                "Deplasmolysis can reverse plasmolysis"
+              ]
+            }
+          }
+        ],
+        "diagram": "Water movement / plasmolysis diagram."
+      },
+      {
+        "code": "1.2",
+        "title": "Transpiration and Ascent of Sap",
+        "subtitle": "Water loss and cohesion-tension mechanism",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Transpiration types",
+              "body": "Stomatal: 80–90%; Cuticular: 10–20%; Lenticular: less than 1% in the source notes."
+            },
+            "right": {
+              "title": "Cohesion-Tension Theory",
+              "body": "Dixon and Joly (1894): transpiration creates tension in xylem; cohesion and adhesion maintain a continuous water column from roots to leaves."
+            }
+          }
+        ],
+        "diagram": "Ascent of sap through xylem."
+      },
+      {
+        "code": "1.3",
+        "title": "Photosynthesis",
+        "subtitle": "Light reactions, Calvin cycle, C4 and CAM",
+        "blocks": [
+          {
+            "type": "definition",
+            "title": "Overall equation",
+            "body": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, requiring light and chlorophyll."
+          },
+          {
+            "type": "split",
+            "left": {
+              "title": "Light and C3 reactions",
+              "body": "Light reactions occur in thylakoid membranes and form ATP/NADPH with O₂ release. The Calvin cycle occurs in the stroma and fixes CO₂ through RuBP/Rubisco."
+            },
+            "right": {
+              "title": "C4 and CAM",
+              "body": "C4 plants use mesophyll and bundle sheath with OAA as first product. CAM plants open stomata mainly at night and store CO₂ as malic acid."
+            }
+          }
+        ],
+        "diagram": "Chloroplast with grana and stroma; pathway flow."
+      },
+      {
+        "code": "1.4",
+        "title": "Respiration",
+        "subtitle": "Glycolysis, pyruvate oxidation, Krebs cycle and ETC",
+        "blocks": [
+          {
+            "type": "definition",
+            "title": "Equation in source notes",
+            "body": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 38 ATP."
+          },
+          {
+            "type": "split",
+            "left": {
+              "title": "Stages",
+              "items": [
+                "Glycolysis — cytoplasm; net 2 ATP",
+                "Pyruvate oxidation — mitochondrial matrix",
+                "Krebs cycle — matrix; 2 ATP"
+              ]
+            },
+            "right": {
+              "title": "ETC and RQ",
+              "body": "Oxidative phosphorylation occurs on the inner mitochondrial membrane and is listed as 32–34 ATP. RQ = CO₂ released / O₂ absorbed."
+            }
+          }
+        ],
+        "diagram": "Mitochondrion and respiration stages."
+      },
+      {
+        "code": "1.5",
+        "title": "Physiology Integration",
+        "subtitle": "Linking water, transport, photosynthesis and respiration",
+        "blocks": [
+          {
+            "type": "card",
+            "title": "Core revision logic",
+            "body": "Water enters and moves through the plant; transpiration drives the water column; photosynthesis captures energy and forms carbohydrates; respiration releases usable energy as ATP."
+          }
+        ],
+        "diagram": "Concept map connecting all Unit IV processes."
+      }
+    ]
+  },
+  {
+    "id": "u5",
+    "roman": "UNIT V",
+    "short": "Reproduction",
+    "title": "Plant Reproduction, Growth and Propagation",
+    "subtitle": "Propagules, sexual and asexual reproduction, hormones, elicitors and alternation of generations.",
+    "image": "https://images.unsplash.com/photo-1490750967868-88aa4486?auto=format&fit=crop&w=1400&q=85",
+    "topics": [
+      {
+        "code": "1.1",
+        "title": "Plant Propagation — Types of Propagules",
+        "subtitle": "Natural and artificial propagation",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Natural propagules",
+              "body": "Rhizome, tuber, bulb, corm, runner, sucker, bulbil and foliar buds are listed with examples such as ginger, potato, onion, banana, Agave and Bryophyllum."
+            },
+            "right": {
+              "title": "Artificial methods",
+              "body": "Cutting uses a stem/leaf/root piece; grafting joins stock and scion. Examples in the source include rose, hibiscus, begonia, mango and apple."
+            }
+          }
+        ],
+        "diagram": "Vegetative propagation examples."
+      },
+      {
+        "code": "1.2",
+        "title": "Sexual and Asexual Reproduction",
+        "subtitle": "Double fertilization and pollination",
+        "blocks": [
+          {
+            "type": "definition",
+            "title": "Double fertilization",
+            "body": "Sperm + egg → zygote (2n) → embryo; second sperm + two polar nuclei → endosperm (3n). The source notes identify this as unique to angiosperms and credit Nawaschin (1898)."
+          },
+          {
+            "type": "split",
+            "left": {
+              "title": "Pollination",
+              "items": [
+                "Autogamy — self",
+                "Anemophily — wind",
+                "Entomophily — insects"
+              ]
+            },
+            "right": {
+              "title": "More agents",
+              "items": [
+                "Hydrophily — water",
+                "Ornithophily — birds"
+              ]
+            }
+          }
+        ],
+        "diagram": "Double fertilization and pollination types."
+      },
+      {
+        "code": "1.3",
+        "title": "Plant Hormones and Role of Elicitors",
+        "subtitle": "Growth regulators and defence signalling",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Hormones",
+              "items": [
+                "Auxin — elongation, rooting, apical dominance",
+                "Gibberellin — elongation, germination, bolting",
+                "Cytokinin — cell division, shoot differentiation",
+                "ABA — dormancy and stomatal closure",
+                "Ethylene — ripening and senescence"
+              ]
+            },
+            "right": {
+              "title": "Elicitors",
+              "body": "Biotic or abiotic signals such as pathogen factors, UV, heat or wounding can trigger defence, secondary metabolites and systemic acquired resistance (SAR)."
+            }
+          }
+        ],
+        "diagram": "Hormone action chart / defence signalling flow."
+      },
+      {
+        "code": "1.4",
+        "title": "Gametophyte and Sporophyte",
+        "subtitle": "Dominant phases in major plant groups",
+        "blocks": [
+          {
+            "type": "split",
+            "left": {
+              "title": "Groups",
+              "body": "Algae and bryophytes have a prominent gametophyte phase in the source table, while pteridophytes, gymnosperms and angiosperms are described with dominant sporophytes."
+            },
+            "right": {
+              "title": "Reduction of gametophyte",
+              "body": "In seed plants the gametophytes are highly reduced, represented by structures such as pollen and embryo sac."
+            }
+          }
+        ],
+        "diagram": "Compare dominant phase across plant groups."
+      },
+      {
+        "code": "1.5",
+        "title": "Alternation of Generations",
+        "subtitle": "Cycle between haploid and diploid phases",
+        "blocks": [
+          {
+            "type": "definition",
+            "title": "Cycle",
+            "body": "Sporophyte (2n) → meiosis → spores (n) → mitosis → gametophyte (n) → gametes and fertilization → zygote (2n) → new sporophyte."
+          },
+          {
+            "type": "card",
+            "title": "Remember",
+            "body": "Meiosis produces spores and reduces chromosome number; mitosis develops the gametophyte; fertilization restores the diploid sporophyte generation."
+          }
+        ],
+        "diagram": "Full alternation-of-generations cycle."
+      }
+    ]
+  }
+]
